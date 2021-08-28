@@ -14,7 +14,7 @@ Skills:   JS / HTML / CSS / BOOTSTRAP / WORDPRESS
 - 📫 How to reach me: arparvez20@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/arparvez50)<br>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ar-parvez-aa3a69174/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/ar_parvez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://arparvez50.github.io/portfolio)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/arparvez50)<span style="margin-right:5px;"></span>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/ar-parvez-aa3a69174/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/ar_parvez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://arparvez50.github.io/portfolio)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arparvez50)](https://github.com/anuraghazra/github-readme-stats)
 
