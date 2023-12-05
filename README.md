@@ -1,14 +1,14 @@
 ### Hi there 👋, I am Ar parvez
-##### Junior Web Designer
+##### JS learner and shopify enthusiast
 
-Hi, I am a junior Web designer and WordPress Expert. Currently, I am learning Javascript and Trying to solve the most problems using JavaScript ❤.
+Hi, I am a Shopify Theme developer and JavaScript Learner. Currently, I am learning Javascript and Trying to solve most problems using JavaScript ❤.
 
-Skills:   JS / HTML / CSS / BOOTSTRAP / WORDPRESS
+Skills:   JS / BOOTSTRAP / WORDPRESS / LIQUID / TAILWIND / VUE(loading)
 
 - 🔭 I’m currently working on Prep Bangladesh 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Vue JS and Shopify theme development 
 - 👯 I’m looking to collaborate on Open Source Project 
-- 🤔 I’m looking for help with React JS 
+- 🤔 I’m looking for help with Vue JS 👌 
 - 💬 Ask me about WordPress / JavaScript 
 - 📫 How to reach me: arparvez20@gmail.com 
 
